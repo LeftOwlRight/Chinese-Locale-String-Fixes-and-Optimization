@@ -13,5 +13,14 @@
 			"hook_id" : "lib/managers/localizationmanager",
 			"script_path" : "string.lua"
 		}
-	]
+	],
+
+	"updates" : [
+       {
+        "identifier" : "pd2_chinese_locale_string_fixes",
+        "host": {
+            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Chinese-Locale-String-Fixes-and-Optimization/main/meta.json"
+                }
+        }
+    ]
 }
