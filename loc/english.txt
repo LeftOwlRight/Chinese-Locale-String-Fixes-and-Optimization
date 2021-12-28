@@ -1,0 +1,12 @@
+{
+    "menu_chin_string_fixes" : "Chinese Localization String Fixes",
+	"menu_chin_string_fixes_desc" : "Fixes the wrong Chinese description in game.",
+	"menu_chin_string_fixes_Enable_String" : "Enable",
+	"menu_chin_string_fixes_Enable_String_desc" : "Enable or disable the mod.",
+	"menu_chin_string_fixes_perk_deck_tip" : "How to show perk deck?",
+	"chinsf_dialog_ovk" : "Official",
+	"chinsf_dialog_sig" : "Unite",
+	"chinsf_dialog_ovkplussig" : "Official/Unite",
+	"chinsf_dialog_LtyR" : "Author's Preference",
+	"menu_chin_string_fixes_perk_deck_tip_desc" : "Official: 官方中文\nUnite: 联合汉化"
+}

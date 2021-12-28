@@ -1,0 +1,12 @@
+{
+    "menu_chin_string_fixes" : "官方中文修复与优化",
+	"menu_chin_string_fixes_desc" : "修复一些错误的描述，添加一些注释等。\n该模组的主要对象为新手玩家。",
+	"menu_chin_string_fixes_Enable_String" : "启用模组",
+	"menu_chin_string_fixes_Enable_String_desc" : "勾选以启用模组，\n取消勾选以禁用模组。",
+	"menu_chin_string_fixes_perk_deck_tip" : "天赋名小贴士",
+	"chinsf_dialog_ovk" : "官方中文",
+	"chinsf_dialog_sig" : "联合汉化",
+	"chinsf_dialog_ovkplussig" : "官方中文/联合汉化",
+	"chinsf_dialog_LtyR" : "作者的偏好",
+	"menu_chin_string_fixes_perk_deck_tip_desc" : "调整如何显示像安娜奇这样存在新人误区的天赋名。\n以霸王天赋为例，\"官方中文/联合汉化\"选项的显示方法就是\"霸王/金并\"。"
+}
