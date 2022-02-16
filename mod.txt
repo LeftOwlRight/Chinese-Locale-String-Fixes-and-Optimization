@@ -3,7 +3,7 @@
 	"description" : "perk",
 	"author" : "LR_Daring",
 	"contact" : "",
-	"version" : 2.5,
+	"version" : 2.6,
 	"hooks" : [
 		{   
 			"hook_id" : "lib/managers/menumanager",
@@ -19,7 +19,7 @@
        {
         "identifier" : "pd2_chinese_locale_string_fixes",
         "host": {
-            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Chinese-Locale-String-Fixes-and-Optimization/main/meta.json"
+            "meta": "https://gitlab.com/LeftOwlRight/Chinese-Locale-String-Fixes-and-Optimization/-/raw/main/meta.json"
                 }
         }
     ]
