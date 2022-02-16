@@ -7,6 +7,7 @@
 	"chinsf_dialog_ovk" : "官方中文",
 	"chinsf_dialog_sig" : "联合汉化",
 	"chinsf_dialog_ovkplussig" : "官方中文/联合汉化",
+	"chinsf_dialog_origin" : "原PDLG汉化",
 	"chinsf_dialog_LtyR" : "作者的偏好",
-	"menu_chin_string_fixes_perk_deck_tip_desc" : "调整如何显示像安娜奇这样存在新人误区的天赋名。\n以霸王天赋为例，\"官方中文/联合汉化\"选项的显示方法就是\"霸王/金并\"。"
+	"menu_chin_string_fixes_perk_deck_tip_desc" : "调整如何显示像安娜奇这样存在新人误区的天赋名。\n以霸王天赋为例，\"官方中文/联合汉化\"选项的显示方法就是\"首脑/霸王\"。"
 }

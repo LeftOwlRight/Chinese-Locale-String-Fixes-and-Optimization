@@ -7,7 +7,7 @@ ChinStringFixes = ChinStringFixes or {
 	},
   
     values = {
-        perk_deck_tip = { "chinsf_dialog_ovk", "chinsf_dialog_sig", "chinsf_dialog_ovkplussig","chinsf_dialog_LtyR" }
+        perk_deck_tip = { "chinsf_dialog_ovk", "chinsf_dialog_sig", "chinsf_dialog_ovkplussig", "chinsf_dialog_origin", "chinsf_dialog_LtyR" }
     }
   }
 

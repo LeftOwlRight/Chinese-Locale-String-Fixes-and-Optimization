@@ -7,6 +7,7 @@
 	"chinsf_dialog_ovk" : "Official",
 	"chinsf_dialog_sig" : "Unite",
 	"chinsf_dialog_ovkplussig" : "Official/Unite",
+	"chinsf_dialog_origin" : "Original PDLG",
 	"chinsf_dialog_LtyR" : "Author's Preference",
 	"menu_chin_string_fixes_perk_deck_tip_desc" : "Official: 官方中文\nUnite: 联合汉化"
 }

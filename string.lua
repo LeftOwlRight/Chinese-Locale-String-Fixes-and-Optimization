@@ -97,6 +97,11 @@ Hooks:Add("LocalizationManagerPostInit", "ChinStringFixes", function(loc)
     	bm_wskn_famas_hypno = "巴适之鹰",
 	    })
 	elseif ChinStringFixes.settings.perk_deck_tip == 4 then
+		LocalizationManager:add_localized_strings({
+		menu_st_spec_17 = "金并",
+    	bm_wskn_famas_hypno = "巴适之鹰",
+	    })
+	elseif ChinStringFixes.settings.perk_deck_tip == 5 then
 		--log(type(Application:version()))
 		LocalizationManager:add_localized_strings({
 		menu_st_activate_spec = "选用此项作弊",

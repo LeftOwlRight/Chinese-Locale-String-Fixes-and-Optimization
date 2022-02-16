@@ -3,7 +3,7 @@
 	"description" : "perk",
 	"author" : "LR_Daring",
 	"contact" : "",
-	"version" : 2.4,
+	"version" : 2.5,
 	"hooks" : [
 		{   
 			"hook_id" : "lib/managers/menumanager",
